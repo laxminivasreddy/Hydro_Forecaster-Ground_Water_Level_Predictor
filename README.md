@@ -39,7 +39,6 @@ The main objective of Hydro Forecaster is to analyze these factors and predict g
 
 The primary dataset used in the project is:
 
-```text
 Daily.csv
 
 The dataset contains 445,212 daily observations.
