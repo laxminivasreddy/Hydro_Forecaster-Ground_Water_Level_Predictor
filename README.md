@@ -319,6 +319,8 @@ or LSTM regression can be developed.
 -   FastAPI inference API
 -   Continuous model retraining
 
+## Deployed Link :https://hydroforecaster-kdkbrmdhszklu6lvdxc7vt.streamlit.app/
+
 ## Author
 
 **Laxminivas Reddy Uppula**
